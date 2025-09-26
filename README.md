@@ -1,1 +1,3 @@
-# this commond is used to crate directory
+xyz
+first program
+
